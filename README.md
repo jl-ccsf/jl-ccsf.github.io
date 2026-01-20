@@ -1,2 +1,3 @@
 # jl-ccsf.github.io
-ccsf student server
+student server
+<br><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
