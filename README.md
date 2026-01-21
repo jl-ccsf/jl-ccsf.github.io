@@ -1,3 +1,5 @@
+<!--JULES LENZI 1/21/26-->
+
 # Student Server
 
 Hi, I'm Jules, and this is the home for my Spring 2026 portfolio.
