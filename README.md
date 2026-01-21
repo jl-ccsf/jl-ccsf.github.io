@@ -1,3 +1,15 @@
-# jl-ccsf.github.io
-student server\
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+# Student Server
+
+Hi, I'm Jules, and this is the home for my Spring 2026 portfolio.
+
+## Purpose
+
+This is where I'll be uploading my homework assignments for [CNIT-131A: Introduction to XML & JSON](https://www.ccsf.edu/academics/ccsf-catalog/courses-by-department/computer-networking-and-information-technology "Computer Networking & Information Technology Dept") throughout the semester. Check out my [portfolio-in-progress](https://jl-ccsf.github.io/cnit131a.html "CNIT-131A") and let me know what you think :bowtie:
+
+### Feedback
+
+If you're a fellow classmate at [CCSF](https://www.ccsf.edu/ "City College of San Francisco"), feel free to leave a comment in my [Guestbook](https://github.com/jl-ccsf/jl-ccsf.github.io/discussions/1 "Discussions tab")!
+
+#### License
+
+This work is in the public domain: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons License").
