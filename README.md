@@ -12,4 +12,4 @@ If you're a fellow classmate at [CCSF](https://www.ccsf.edu/ "City College of Sa
 
 #### License
 
-This work is in the public domain: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons License").
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International").
