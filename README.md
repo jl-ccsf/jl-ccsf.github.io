@@ -10,4 +10,4 @@ This is where I'll be uploading my homework assignments for [CNIT-131A: Introduc
 
 ### Feedback
 
-If you're a fellow classmate at [CCSF](https://www.ccsf.edu/ "City College of San Francisco"), feel free to leave a comment in my [Guestbook](https://github.com/jl-ccsf/jl-ccsf.github.io/discussions/1 "Discussions tab")!
+If you're a fellow student at [CCSF](https://www.ccsf.edu/ "City College of San Francisco"), feel free to leave a comment in my [Guestbook](https://github.com/jl-ccsf/jl-ccsf.github.io/discussions/1 "Discussions tab")!
