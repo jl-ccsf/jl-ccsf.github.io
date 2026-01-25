@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* donations catalog stylesheet */
 
 catalog {
@@ -16,4 +17,24 @@ title {
 
 book:nth-child(odd) {
     background-color: darkgray;
+=======
+/* donations catalog stylesheet */
+
+catalog {
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+
+book, title, author, publisher { 
+    display: block;
+}
+
+title {
+    font-weight: bold;
+    color: red; 
+}
+
+book:nth-child(odd) {
+    background-color: darkgray;
+>>>>>>> 6f5b3a08c0b6332bb54c0f8ec8d8cbd4eb817cef
 }
