@@ -1,13 +1,10 @@
 /* donations catalog stylesheet */
 
-catalog { 
+catalog, book, title, author, publisher { 
+    display: block;
     background-color: black;
     font-family: sans-serif;
     color: white;
-}
-
-book, title, author, publisher { 
-    display: block;
 }
 
 title {
