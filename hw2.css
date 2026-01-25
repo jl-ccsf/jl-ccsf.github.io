@@ -6,7 +6,7 @@ catalog, book, title, author, publisher {
     font-family: sans-serif;
 }
 
-catalog:nth-child(odd) {
+book:nth-child(odd) {
     background-color: darkgray;
 }
 
