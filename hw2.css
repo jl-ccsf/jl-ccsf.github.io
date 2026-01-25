@@ -9,11 +9,11 @@ book, title, author, publisher {
     display: block;
 }
 
-book:nth-child(odd) {
-    background-color: black;
-}
-
 title {
     font-weight: bold;
     color: red; 
+}
+
+book:nth-child(odd) {
+    background-color: black;
 }
