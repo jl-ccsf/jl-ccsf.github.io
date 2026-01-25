@@ -1,9 +1,12 @@
 /* donations catalog stylesheet */
 
-catalog, book, title, author, publisher { 
-    display: block;
+catalog {
     background-color: lightgray;
     font-family: sans-serif;
+}
+
+book, title, author, publisher { 
+    display: block;
 }
 
 book:nth-child(odd) {
