@@ -4,14 +4,14 @@ catalog, book, title, author, publisher {
     display: block;
     background-color: #D3D3D3;
     font-family: sans-serif;
-    color: black;
+    color: #000000;
 }
 
-book1, book3, book5 {
+.book1, .book3, .book5 {
     background-color: #A9A9A9;
 }
 
 title {
     font-weight: bold;
-    color: red; 
+    color: #FF0000; 
 }
