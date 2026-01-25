@@ -2,9 +2,13 @@
 
 catalog, book, title, author, publisher { 
     display: block;
-    background-color: black;
+    background-color: #D3D3D3;
     font-family: sans-serif;
-    color: white;
+    color: black;
+}
+
+book1, book3, book5 {
+    background-color: #A9A9A9;
 }
 
 title {
