@@ -15,5 +15,5 @@ title {
 }
 
 book:nth-child(odd) {
-    background-color: black;
+    background-color: darkgray;
 }
