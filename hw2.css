@@ -11,7 +11,7 @@ book, title, author, publisher {
 }
 
 catalog:nth-child(odd) {
-    background: #a9a9a9;
+    background-color: #a9a9a9;
 }
 
 title {
