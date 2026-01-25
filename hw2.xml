@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Books are being donated by instructors and publishers-->
 <?xml-stylesheet type="text/css" href="hw2.css"?>
 <catolog>
+<!--Books are being donated by instructors and publishers-->
     <book id="1" pages="1">
         <title>Introduction to HTML</title>
         <author>Joseph Gardner</author>
