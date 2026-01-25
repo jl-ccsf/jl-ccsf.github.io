@@ -2,16 +2,15 @@
 
 catalog, book, title, author, publisher { 
     display: block;
-    background-color: #D3D3D3;
+    background-color: lightgray;
     font-family: sans-serif;
-    color: #000000;
 }
 
 .book1, .book3, .book5 {
-    background-color: #A9A9A9;
+    background-color: darkgray;
 }
 
 title {
     font-weight: bold;
-    color: #FF0000; 
+    color: red; 
 }
