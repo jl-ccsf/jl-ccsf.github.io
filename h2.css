@@ -1,0 +1,21 @@
+/* donations catalog stylesheet */
+
+catalog { 
+    background-color: light gray;
+    font-family: sans-serif;
+}
+
+book, title, author, publisher { 
+    display: block;
+    color: black;
+}
+
+catalog:nth-child(odd) {
+    background: dark gray;
+    color: white;
+}
+
+title {
+    font-weight: bold;
+    color: red; 
+}
