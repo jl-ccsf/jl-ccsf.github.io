@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="hw2.css"?>
 <!--Books are being donated by instructors and publishers-->
-<catolog>
+<catalog>
     <book id="1" pages="1">
         <title>Introduction to HTML</title>
         <author>Joseph Gardner</author>
@@ -27,4 +27,4 @@
         <author>Stuart Bell</author>
         <publisher>Cengage &#169;</publisher>
     </book>
-</catolog>
+</catalog>
