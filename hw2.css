@@ -1,9 +1,9 @@
 /* donations catalog stylesheet */
 
 catalog { 
-    background-color: #d3d3d3;
+    background-color: black;
     font-family: sans-serif;
-    color: #000000;
+    color: white;
 }
 
 book, title, author, publisher { 
@@ -11,10 +11,10 @@ book, title, author, publisher {
 }
 
 catalog:nth-child(odd) {
-    background-color: #a9a9a9;
+    background-color: gray;
 }
 
 title {
     font-weight: bold;
-    color: #ff0000; 
+    color: red; 
 }
