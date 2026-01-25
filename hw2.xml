@@ -23,7 +23,7 @@
         <publisher>Wrox &#169;</publisher>
     </book>
     <book id="5" pages="5">
-        <title>XML &#169; JSON</title>
+        <title>XML &amp; JSON</title>
         <author>Stuart Bell</author>
         <publisher>Cengage &#169;</publisher>
     </book>
