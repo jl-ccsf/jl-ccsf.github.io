@@ -1,5 +1,5 @@
 /* JULES LENZI 1/24/2026 */
-/* Homepage stylesheet */
+/* Main Stylesheet */
 
 body {
     font-family: sans-serif; 
@@ -10,6 +10,10 @@ body {
 .content {
     max-width: 500px;
     margin: auto;
+}
+
+#home {
+    font-variant-caps: all-small-caps;
 }
     
 /* LINKS */
