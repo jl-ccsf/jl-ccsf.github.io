@@ -1,4 +1,4 @@
-<!--JULES LENZI 1/21/2026-->
+<!--JULES LENZI 01/21/2026-->
 <!--Customized Contributor Covenant v3-->
 
 # Contributor Covenant 3.0 Code of Conduct
