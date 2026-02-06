@@ -3,8 +3,9 @@
 <!--JULES LENZI 01/24/2026-->
 <!--Book Donations Catalog-->
 <catalog>
-    <!--Books donated by instructors and publishers-->
     <header>Book Donations Catalog</header>
+    <spacer>&#032;</spacer>
+    <!--Books donated by instructors and publishers-->
     <book pages="1">
         <title>Introduction to HTML</title>
         <author>Joseph Gardner</author>
