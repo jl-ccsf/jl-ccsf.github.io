@@ -2,8 +2,11 @@
 /* Book Donations Catalog Stylesheet */
 
 catalog {
-    background-color: lightgray;
+    background-color: black;
+    color: white;
     font-family: sans-serif;
+    max-width: 500px;
+    margin: auto;
 }
 
 book, title, author, publisher { 
@@ -11,10 +14,12 @@ book, title, author, publisher {
 }
 
 title {
+    color: red;
     font-weight: bold;
-    color: red; 
+    font-style: italic;
 }
 
 book:nth-child(odd) {
-    background-color: darkgray;
+    background-color: white;
+    color: black;
 }
