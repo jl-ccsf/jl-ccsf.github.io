@@ -14,14 +14,14 @@ header, book, title, author, publisher {
 }
 
 header {
-    font-size: large;
-    margin-bottom: 1em;
+    font-size:xx-large;
+    font-weight: bold;
+    margin-bottom: 5em;
 }
 
 title {
     color: red;
     font-weight: bold;
-    font-style: italic;
 }
 
 book:nth-child(odd) {
