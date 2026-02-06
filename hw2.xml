@@ -4,7 +4,6 @@
 <!--Book Donations Catalog-->
 <catalog>
     <header>Book Donations Catalog</header>
-    <spacer>&#032;</spacer>
     <!--Books donated by instructors and publishers-->
     <book pages="1">
         <title>Introduction to HTML</title>

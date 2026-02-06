@@ -9,11 +9,12 @@ catalog {
     margin: auto;
 }
 
-header, spacer, book, title, author, publisher { 
+header, book, title, author, publisher { 
     display: block;
 }
 
 header {
+    margin: 1rem;
     font-size: xx-large;
     font-weight: bold;
     font-variant-caps: small-caps;
