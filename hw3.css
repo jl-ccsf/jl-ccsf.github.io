@@ -1,10 +1,11 @@
-/* JULES LENZI 02/05/2026 */
-/* Client Accounts Ledger Stylesheet */
+/* JULES LENZI 02/01/2026 */
+/* Testpage Stylesheet */
 
 body {
     background-color: black;
     color: white;
     font-family: sans-serif;
+    margin: 1em;
 }
 
 .content {
@@ -12,15 +13,54 @@ body {
     margin: auto;
 }
 
-#home {
+/* NAV */
+
+#return {
+    float: left;
+    background-color: white;
+    color: black;
+    border: none;
+    outline: none;
     font-variant-caps: all-small-caps;
+    cursor: pointer;
+    margin-top: 1em;
 }
 
-h1 {
-    font-style: italic;
+#return:hover {
+    background-color: black;
+    color: white;
+    border: none;
+    outline: 1px solid white;
 }
 
-/* TABLE */
+#return:active {
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    outline: none;
+}
+
+#home {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#home:hover {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#home:active {
+    background-color: transparent;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+/* MAIN */
+
+main {
+    margin-top: 2em;
+}
 
 table, th, td {
     border: 1px solid white;
@@ -35,10 +75,6 @@ th {
     font-variant-caps: all-small-caps;
 }
 
-#client-row:nth-child(odd) {
-    background-color: darkgray;
-}
-
 /* LINKS */
 
 a:link {
@@ -51,15 +87,16 @@ a:visited {
 }
 
 a:hover {
-    color: darkgray;
-    background-color: lightgray;
+    color: black;
+    background-color: white;
     text-decoration: none;
 }
 
 a:active {
-    color: lightgray;
+    color: white;
+    background-color: black;
     text-decoration: none;
-    border: 1px solid lightgray;
+    border: 1px solid white;
 }
 
 /* TOTALS */
@@ -79,30 +116,51 @@ a:active {
 footer {
     position: fixed;
     bottom: 0;
+    margin-bottom: 1em;
 }
 
-hr {
-    border-top: 1px solid white;
+#license {
+    background-color: black;
+    border: none;
+    outline: none;
+    width: 5.25em;
+    height: 1.5em;
+    float: left;
+    margin-top: 0.75em;
 }
 
-.icons {
-    font-size: 1em;
-    width: 4em;
-    height: 1em;
-    position: relative;
+#license:hover {
+    background-color: white;
 }
 
-.link {
+#license:active {
+    background-color: black;
+    border: 1px solid white;
+}
+
+#cc {
     text-decoration: none;
     position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: 1;
+    width: 5em;
+    height: 1.5em;
+}
+
+#cc:hover {
+    background-color: transparent;
+}
+
+#cc:active {
+    background-color: transparent;
+    border: 1px solid white;
 }
 
 img {
-    max-width: 1em;
-    max-height: 1em;
+    max-width: 1.25em;
+    max-height: 1.25em;
+}
+
+#attribution {
+    font-size: small;
+    text-align: right;
+    float: right;
 }
