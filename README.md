@@ -5,7 +5,7 @@
 
 Hi, I'm Jules, and this is the home for my Spring 2026 portfolio.
 
->Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
+>Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
 
 ## Purpose
 
