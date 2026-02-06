@@ -4,6 +4,7 @@
 <!--Book Donations Catalog-->
 <catalog>
     <!--Books donated by instructors and publishers-->
+    <header>Book Donations Catalog</header>
     <book pages="1">
         <title>Introduction to HTML</title>
         <author>Joseph Gardner</author>

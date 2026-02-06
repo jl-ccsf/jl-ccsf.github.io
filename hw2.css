@@ -9,8 +9,13 @@ catalog {
     margin: auto;
 }
 
-book, title, author, publisher { 
+header, book, title, author, publisher { 
     display: block;
+}
+
+header {
+    font-size: large;
+    margin-bottom: 1em;
 }
 
 title {
