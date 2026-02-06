@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--JULES LENZI 02/05/2026-->
+<?xml-stylesheet type="text/xsl" href="hw3.xsl"?>
 <!--Client Accounts Ledger-->
 <accounts>
     <!--Account totals are in USD-->

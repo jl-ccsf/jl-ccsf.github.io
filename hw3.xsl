@@ -14,7 +14,7 @@
                 <meta name="author" content="Jules Lenzi"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                 <!--CSS-->
-                <link rel="stylesheet" href="test.css"/>
+                <link rel="stylesheet" href="hw3.css"/>
             </head>
             <body>
                 <div class="content">
