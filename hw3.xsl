@@ -2,7 +2,7 @@
 <!--JULES LENZI 02/05/2026-->
 <!--Client Accounts Ledger Template-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-<xsl:output method="html" version="5.0" encoding="UTF-8"/>    
+    <xsl:output method="html" version="5.0" encoding="UTF-8"/>    
     <xsl:template match="/">
         <!--XHTML-->
         <html lang="en">
@@ -67,7 +67,7 @@
                     <footer>
                         <!--Copyleft-->
                         <button id="license">
-                            <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC BY-SA 4.0" target="_blank" id="cc"></a>
+                            <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA-4" target="_blank" id="cc"></a>
                             <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon"/>
                             <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution icon"/>
                             <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike icon"/>
