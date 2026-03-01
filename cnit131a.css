@@ -23,8 +23,7 @@ a:link {
 }
 
 a:visited {
-    color: black;
-    background-color: white;
+    color: gray;
     text-decoration: none;
 }
 
@@ -86,7 +85,7 @@ footer {
     border: 1px solid white;
 }
 
-img {
+.svg {
     max-width: 1.25em;
     max-height: 1.25em;
 }
