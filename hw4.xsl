@@ -48,13 +48,13 @@
                                         <xsl:value-of select="first"/>
                                             <xsl:text> </xsl:text>
                                         <xsl:value-of select="last"/>
+                                </span>
                                         <xsl:choose>
                                             <xsl:when test="position()=last()">.</xsl:when>
                                             <xsl:when test="position()=last() - 1">, and </xsl:when>
                                             <xsl:otherwise>, </xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:for-each>
-                                </span>
                             </p>
                             <p>
                                 <span class="blue">
