@@ -68,8 +68,15 @@ h1 {
     font-family: monospace;
 }
 
+.float {
+    float: left;
+    width: 50%;
+    margin-right: 1em;
+}
+
 #logo {
     float: left;
+    width: auto;
 }
 
 .blue {
