@@ -31,7 +31,7 @@
                         <img src="financialstartup.jpg" alt="An upward arrow and two figures high-fiving" id="logo"/>
                         <p>Alotta Busy Coders (ABC) is a new financial management company for busy coders.</p>
                         <!--XPath-->
-                        <p>After <i>80 years</i> of tireless growth, ABC now serves a grand total of
+                        <p>After 80 years of tireless growth, ABC now serves a grand total of
                             <span class="blue">
                                 <xsl:text> </xsl:text>
                                 <!--Output 8 -->
@@ -40,7 +40,7 @@
                             </span>
                             clients!
                         </p>
-                        <p>Here are <i>all</i> of our valued clients' names:
+                        <p>Here are all of our valued clients' names:
                             <span class="blue">
                                 <xsl:text> </xsl:text>
                                 <!--Output all names-->
