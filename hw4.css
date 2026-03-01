@@ -78,6 +78,10 @@ h1 {
     font-weight: bold;
 }
 
+.not-blue {
+    color: white;
+}
+
 /* LINKS */
 
 a:link {
