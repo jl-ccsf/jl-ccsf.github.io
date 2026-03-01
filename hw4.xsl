@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <!--JULES LENZI 02/28/2026-->
 <!--ABC Financial Startup Clients Template-->
@@ -164,5 +163,4 @@
             </body>
         </html>
     </xsl:template>
->>>>>>> 1af917bc059838b950193b67067dcef5f8ccae8c
 </xsl:stylesheet>
