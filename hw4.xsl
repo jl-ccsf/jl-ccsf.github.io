@@ -17,7 +17,7 @@
                 <link rel="stylesheet" type="text/css" href="hw4.css"/>
             </head>
             <body>
-                <div class="content">
+                <div id="content">
                     <!--NAV-->
                     <nav>
                         <a href="https://jl-ccsf.github.io/cnit131a.html" title="All assignments" id="home">
@@ -70,9 +70,9 @@
                         <!--Copyleft-->
                         <button id="license">
                             <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA-4" target="_blank" id="cc"></a>
-                            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon"/>
-                            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution icon"/>
-                            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike icon"/>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon" class="svg"/>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution icon" class="svg"/>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike icon" class="svg"/>
                         </button>
                         <p id="attribution">2026 <a href="mailto:jlenzi@mail.ccsf.edu?subject=Re:CNIT-131A" title="Email me">Jules Lenzi</a></p>
                     </footer>
