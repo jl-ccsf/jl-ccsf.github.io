@@ -30,9 +30,9 @@
                         <h1>ABC Financial Startup</h1>
                         <div class="float"/>
                             <img src="financialstartup.jpg" alt="An upward arrow and two figures high-fiving" id="logo"/>
-                            <p>Alotta Busy Coders (ABC) is a new financial management company for busy coders.</p>
+                            <p>Alotta Busy Coders (ABC) is a new crypto management company for coders who don't have time to gamble.</p>
                             <!--XPath-->
-                            <p>After 80 years of tireless growth, ABC now serves a grand total of
+                            <p>After 16 years of tireless growth, ABC now serves a grand total of
                                 <span class="blue">
                                     <xsl:text> </xsl:text>
                                     <!--Output 8-->
