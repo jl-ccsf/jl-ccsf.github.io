@@ -34,7 +34,7 @@
                         <p>After <i>80 years</i> of tireless growth, ABC now serves a grand total of
                             <span class="blue">
                                 <xsl:text> </xsl:text>
-                                <!--Output = 8 (number of clients)-->
+                                <!--Output 8 -->
                                 <xsl:value-of select="count(accounts/client)"/>
                                 <xsl:text> </xsl:text>
                             </span>
@@ -43,7 +43,7 @@
                         <p>Here are <i>all</i> of our valued clients' names:
                             <span class="blue">
                                 <xsl:text> </xsl:text>
-                                <!--Output (all names)-->
+                                <!--Output all names-->
                                 <xsl:for-each select="accounts/client/name">
                                     <xsl:value-of select="first"/>
                                         <xsl:text> </xsl:text>
@@ -58,7 +58,7 @@
                         </p>
                         <p>
                             <span class="blue">
-                                <!--Outputc = 3 (years > 7)-->
+                                <!--Output 3-->
                                 <xsl:value-of select="count(accounts/client/years[. &gt; 7])"/>
                                 <xsl:text> </xsl:text>
                             </span>
