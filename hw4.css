@@ -13,12 +13,6 @@ body {
     margin: auto;
 }
 
-#logo {
-    display: block;
-    margin-left: auto;
-    width: 50%;
-}
-
 /* NAV */
 
 #return {
@@ -72,6 +66,12 @@ main {
 h1 {
     color: lightblue;
     font-family: monospace;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    width: 50%;
 }
 
 .blue {
