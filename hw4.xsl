@@ -49,11 +49,9 @@
                                             <xsl:text> </xsl:text>
                                         <xsl:value-of select="last"/>
                                         <xsl:choose>
-                                            <span class="not-blue">
-                                                <xsl:when test="position()=last()">.</xsl:when>
-                                                <xsl:when test="position()=last() - 1">, and </xsl:when>
-                                                <xsl:otherwise>, </xsl:otherwise>
-                                            </span>
+                                            <xsl:when test="position()=last()">.</xsl:when>
+                                            <xsl:when test="position()=last() - 1">, and </xsl:when>
+                                            <xsl:otherwise>, </xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:for-each>
                                 </span>
