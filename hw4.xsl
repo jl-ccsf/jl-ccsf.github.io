@@ -28,7 +28,7 @@
                     <!--MAIN-->
                     <main>
                         <h1>ABC Financial Startup</h1>
-                        <div class="float"/>
+                        <div class="float">
                             <img src="financialstartup.jpg" alt="An upward arrow and two figures high-fiving" id="logo"/>
                             <p>Alotta Busy Coders (ABC) is a new crypto management company for coders who don't have time to gamble.</p>
                             <!--XPath-->
@@ -65,19 +65,19 @@
                                 </span>
                                 of our clients have been with us more than 7 years!
                             </p>
-                            <div>
-                        </main>
+                        </div>
+                    </main>
                         <!--FOOTER-->
-                        <footer>
-                            <!--Copyleft-->
-                            <button id="license">
-                                <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA-4" target="_blank" id="cc"></a>
-                                <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon" class="svg"/>
-                                <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution icon" class="svg"/>
-                                <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike icon" class="svg"/>
-                            </button>
-                            <p id="attribution">2026 <a href="mailto:jlenzi@mail.ccsf.edu?subject=Re:CNIT-131A" title="Email me">Jules Lenzi</a></p>
-                        </footer>
+                    <footer>
+                        <!--Copyleft-->
+                        <button id="license">
+                            <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA-4" target="_blank" id="cc"></a>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons icon" class="svg"/>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons Attribution icon" class="svg"/>
+                            <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons ShareAlike icon" class="svg"/>
+                        </button>
+                        <p id="attribution">2026 <a href="mailto:jlenzi@mail.ccsf.edu?subject=Re:CNIT-131A" title="Email me">Jules Lenzi</a></p>
+                    </footer>
                 </div>
             </body>
         </html>
