@@ -70,8 +70,7 @@ h1 {
 
 #logo {
     float: left;
-    margin-right: 2em;
-    margin-bottom: 2em;
+    margin: 0 15px 15px 0;
 }
 
 .blue {
