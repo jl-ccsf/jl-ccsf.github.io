@@ -1,0 +1,204 @@
+/* jl-ccsf 09-07-2026 */
+/* CNIT-133 HW2 Stylesheet */
+
+body {
+    font-family: sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.content {
+    max-width: 31.25rem;
+    margin: auto;
+}
+
+/* SKIP LINK */
+
+.skip {
+    position: absolute;
+    left: -625rem;
+    top: auto;
+    width: 0.063rem;
+    height: 0.063rem;
+    overflow: hidden;
+}
+
+.skip:focus {
+    position: static;
+    width: auto;
+    height: auto;
+}
+
+.banner {
+    font-weight: 600;
+    font-size: 3.5rem;
+    letter-spacing: 0.313rem;
+    text-align: center;
+    margin: 1.5rem;
+}
+
+.initials {
+    display: inline;
+    font-weight: 800;
+    -webkit-text-stroke: 0.125rem whitesmoke;
+    color: transparent;
+}
+
+h2, h3 {
+    line-height: 1.5;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.strong {
+    font-weight: bold;
+    display: inline;
+}
+
+ul, li {
+    font-size: 1rem;
+    line-height: 1.75;
+}
+
+abbr {
+    cursor: help;
+}
+
+/* LINKS */
+
+a:link {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+
+a:active {
+    color: whitesmoke;
+    background-color: black;
+    text-decoration: none;
+    border: 0.063rem solid whitesmoke;
+    padding: 1.25rem;
+}
+
+a:focus {
+    text-decoration: none;
+    outline: 0.09rem solid whitesmoke;
+    outline-offset: 0.1rem;
+}
+
+/* NAV */
+
+.navbar {
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    font-size: 1rem;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.875rem 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    min-width: 5.313rem;
+}
+
+.navbar a:focus {
+    background-color: whitesmoke;
+    color: black;
+    outline: none;
+}
+
+#home, #github {
+    border: 0.063rem solid whitesmoke;
+    border-style: solid none solid solid;
+}
+
+.drop-menu {
+    float: left;
+    overflow: hidden;
+}
+
+.drop-menu .drop-button {
+    font-size: 1rem;  
+    font-weight: bold;
+    color: whitesmoke;
+    border: 0.063rem solid whitesmoke;
+    padding: 0.875rem 1rem;
+    background-color: black;
+    font-family: sans-serif;
+    margin: 0;
+    min-width: 15.625rem;
+}
+
+.navbar a:hover, .drop-menu:hover .drop-button {
+    background-color: whitesmoke;
+    color: black;
+    font-weight: bolder;
+}
+
+.drop-button:focus {
+    background-color: whitesmoke;
+    color: black;
+    outline: none;
+}
+
+.drop-content {
+    display: none;
+    position: absolute;
+    background-color: whitesmoke;
+    min-width: 15.625rem;
+    box-shadow: 0.063rem 0.063rem 0.063rem 0rem black;
+}
+
+.drop-content a {
+    float: none;
+    font-size: 1rem;
+    font-weight: normal;
+    color: black;
+    padding: 0.875rem 1rem;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.drop-content a:hover {
+    background-color: black;
+    color: whitesmoke;
+    border: 0.063rem solid whitesmoke;
+    font-weight: bold;
+}
+
+.drop-menu:hover .drop-content {
+    display: block;
+}
+
+/* FOOTER */
+
+footer {
+    font-weight: normal;
+    font-size: 0.9rem;
+    text-align: center;
+    width: 100%;
+}
+
+.padded-box {
+    padding: 1.25rem;
+    border: 0.063rem solid whitesmoke;
+}
