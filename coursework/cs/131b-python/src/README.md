@@ -28,7 +28,7 @@
 - [Rainfall Statistics](/coursework/cs/131b-python/src/rainfall_stats.py "rainfall_stats.py"): `rainfall_stats.py`
 - [Reverse](/coursework/cs/131b-python/src/reverse.py "reverse.py"): `reverse.py`
 - [Social Network](/coursework/cs/131b-python/src/social_network.py "social_network.py"): `social_network.py`
-- [Student Data](/coursework/cs/131b-python/src/student_data.py "student_data.py"):** `student_data.py`
+- [Student Data](/coursework/cs/131b-python/src/student_data.py "student_data.py"): `student_data.py`
 - [Top Songs](/coursework/cs/131b-python/src/top_songs.py "top_songs.py"): `top_songs.py`
 - [Tournament Schedule](/coursework/cs/131b-python/src/tournament_schedule.py "tournament_schedule.py"): `tournament_schedule.py`
 - [Zoo](/coursework/cs/131b-python/src/zoo.py "zoo.py"): `zoo.py`
