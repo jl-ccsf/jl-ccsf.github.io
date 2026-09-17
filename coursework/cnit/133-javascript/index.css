@@ -1,5 +1,8 @@
-/* jl-ccsf 09-15-2026 */
-/* CNIT-133 Homepage Stylesheet */
+/*     
+ *     jl-ccsf 
+ *     09-15-2026
+ *     CNIT-133 Homepage Stylesheet
+ */
 
 body {
     font-family: sans-serif;
@@ -29,7 +32,7 @@ body {
     height: auto;
 }
 
-.banner {
+h1 {
     font-weight: 600;
     font-size: 3.5rem;
     letter-spacing: 0.313rem;
@@ -136,12 +139,12 @@ a:focus {
     outline: none;
 }
 
-#home {
+.home {
     border: 0.063rem solid whitesmoke;
     border-style: solid none solid solid;
 }
 
-#github {
+.github {
     border: 0.063rem solid whitesmoke;
     border-style: solid solid solid none;
 }
