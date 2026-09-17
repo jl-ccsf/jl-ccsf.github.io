@@ -6,7 +6,7 @@
 
 # CS-131B: Programming Fundamentals: Python
 
-Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home for my Python coursework.
+Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home for my Python coursework. You can browse the files online at my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cs/131b-python/index.html "JL Python Portfolio").
 
 ## Purpose
 
