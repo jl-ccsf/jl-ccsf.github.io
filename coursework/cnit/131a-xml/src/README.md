@@ -1,32 +1,36 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-131A All Files
+  CNIT-131A Source Files
 -->
 
 # CNIT-131A All Files
 
-## [Course Homepage](jl-ccsf.github.io/coursework/cnit/131a-xml/index.html "View live")
+## [Project 1](/coursework/cnit/131a-xml/assignments/project_1 "View project files")
 
-- [Webpage](/coursework/cnit/131a-xml/src/cnit131a.html): `cnit131a.html`
-- [Stylesheet](/coursework/cnit/131a-xml/src/cnit131a.css): `cnit131a.css`
+- [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/131a-xml/src/cnit131a.html "View live homepage")
+  - [Webpage](/coursework/cnit/131a-xml/src/cnit131a.html "cnit131a.html"): `cnit131a.html`
+  - [Stylesheet](/coursework/cnit/131a-xml/src/cnit131a.css "cnit131a.css"): `cnit131a.css`
 
-## [Book Donations Catalog](jl-ccsf.github.io/coursework/cnit/131a-xml/src/book_donations_catalog.xml "View live")
+## [Project 2](/coursework/cnit/131a-xml/assignments/project_2 "View project files")
 
-- [Database](/coursework/cnit/131a-xml/src/book_donations_catalog.xml): `book_donations_catalog.xml`
-- [Stylesheet](/coursework/cnit/131a-xml/src/book_donations_catalog.css): `book_donations_catalog.css`
+- [Book Donations Catalog](https://jl-ccsf.github.io/coursework/cnit/131a-xml/src/book_donations_catalog.xml "View live page")
+  - [Database](/coursework/cnit/131a-xml/src/book_donations_catalog.xml "book_donations_catalog.xml"): `book_donations_catalog.xml`
+  - [Stylesheet](/coursework/cnit/131a-xml/src/book_donations_catalog.css "book_donations_catalog.css"): `book_donations_catalog.css`
 
-## [Client Accounts Ledger](jl-ccsf.github.io/coursework/cnit/131a-xml/src/client_accounts_ledger.xml "View live")
+## [Project 3](/coursework/cnit/131a-xml/assignments/project_3 "View project files")
 
-- [Database](/coursework/cnit/131a-xml/src/client_accounts_ledger.xml): `client_accounts_ledger.xml`
-- [Template](/coursework/cnit/131a-xml/src/client_accounts_ledger.xsl): `client_accounts_ledger.xsl`
-- [Stylesheet](/coursework/cnit/131a-xml/src/client_accounts_ledger.css): `client_accounts_ledger.css`
+- [Client Accounts Ledger](https://jl-ccsf.github.io/coursework/cnit/131a-xml/src/client_accounts_ledger.xml "View live page")
+  - [Database](/coursework/cnit/131a-xml/src/client_accounts_ledger.xml "client_accounts_ledger.xml"): `client_accounts_ledger.xml`
+  - [Template](/coursework/cnit/131a-xml/src/client_accounts_ledger.xsl "client_accounts_ledger.xsl"): `client_accounts_ledger.xsl`
+  - [Stylesheet](/coursework/cnit/131a-xml/src/client_accounts_ledger.css "client_accounts_ledger.css"): `client_accounts_ledger.css`
 
-## [Financial Startup Clients](jl-ccsf.github.io/coursework/cnit/131a-xml/src/financial_startup_clients.xml "View live")
+## [Project 4](/coursework/cnit/131a-xml/assignments/project_4 "View project files")
 
-- [Database](/coursework/cnit/131a-xml/src/financial_startup_clients.xml): `financial_startup_clients.xml`
-- [Template](/coursework/cnit/131a-xml/src/financial_startup_clients.xsl): `financial_startup_clients.xsl`
-- [Stylesheet](/coursework/cnit/131a-xml/src/financial_startup_clients.css): `financial_startup_clients.css`
+- [Financial Startup Clients](https://jl-ccsf.github.io/coursework/cnit/131a-xml/src/financial_startup_clients.xml "View live page")
+  - [Database](/coursework/cnit/131a-xml/src/financial_startup_clients.xml "financial_startup_clients.xml"): `financial_startup_clients.xml`
+  - [Template](/coursework/cnit/131a-xml/src/financial_startup_clients.xsl "financial_startup_clients.xsl"): `financial_startup_clients.xsl`
+  - [Stylesheet](/coursework/cnit/131a-xml/src/financial_startup_clients.css "financial_startup_clients.css"): `financial_startup_clients.css`
 
 ---
 
