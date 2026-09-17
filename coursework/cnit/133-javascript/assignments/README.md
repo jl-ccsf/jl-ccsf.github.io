@@ -8,15 +8,15 @@
 
 This course is in progress and will update weekly.
 
-## [Project 1](/coursework/cnit/133-javascript/assignments/project_01): Course Homepage
+## [Project 1](/coursework/cnit/133-javascript/assignments/project_01 "View project files"): Course Homepage
 
-- [Course Homepage](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "View live homepage")
+- [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "View live homepage")
   - [Webpage](/coursework/cnit/133-javascript/assignments/project_01/index.html "index.html"): `index.html`
   - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_01/index.css "index.css"): `index.css`
 
-## [Project 2](/coursework/cnit/133-javascript/assignments/project_02): Basic Operations
+## [Project 2](/coursework/cnit/133-javascript/assignments/project_02 "View project files"): Basic Operations
 
-- [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02.html "View live project page")
+- [Main Page: Basic Operations](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02.html "View page")
   - [Webpage](/coursework/cnit/133-javascript/assignments/project_02/hw02.html "hw02.html"): `hw02.html`
   - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_02/hw02.css "hw02.css"): `hw02.css`
 
