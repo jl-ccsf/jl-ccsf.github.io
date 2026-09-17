@@ -8,26 +8,26 @@
 
 ## [Project 1](/coursework/cnit/131a-xml/assignments/project_1 "View project files")
 
-- [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_1/p1_cnit131a.html "View live homepage")
+- **[Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_1/p1_cnit131a.html "View live homepage"):**
   - [Webpage](/coursework/cnit/131a-xml/assignments/project_1/p1_cnit131a.html "p1_cnit131a.html"): `p1_cnit131a.html`
   - [Stylesheet](/coursework/cnit/131a-xml/assignments/project_1/p1_cnit131a.css "p1_cnit131a.css"): `p1_cnit131a.css`
 
 ## [Project 2](/coursework/cnit/131a-xml/assignments/project_2 "View project files")
 
-- [Book Donations Catalog](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_2/p2_book_donations_catalog.xml "View live page")
+- **[Book Donations Catalog](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_2/p2_book_donations_catalog.xml "View live page"):**
   - [Database](/coursework/cnit/131a-xml/assignments/project_2/p2_book_donations_catalog.xml "p2_book_donations_catalog.xml"): `p2_book_donations_catalog.xml`
   - [Stylesheet](/coursework/cnit/131a-xml/assignments/project_2/p2_book_donations_catalog.css "p2_book_donations_catalog.css"): `p2_book_donations_catalog.css`
 
 ## [Project 3](/coursework/cnit/131a-xml/assignments/project_3 "View project files")
 
-- [Client Accounts Ledger](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_3/p3_client_accounts_ledger.xml "View live page")
+- **[Client Accounts Ledger](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_3/p3_client_accounts_ledger.xml "View live page"):**
   - [Database](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.xml "p3_client_accounts_ledger.xml"): `p3_client_accounts_ledger.xml`
   - [Template](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.xsl "p3_client_accounts_ledger.xsl"): `p3_client_accounts_ledger.xsl`
   - [Stylesheet](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.css "p3_client_accounts_ledger.css"): `p3_client_accounts_ledger.css`
 
 ## [Project 4](/coursework/cnit/131a-xml/assignments/project_4 "View project files")
 
-- [Financial Startup Clients](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_4/p4_financial_startup_clients.xml "View live page")
+- **[Financial Startup Clients](https://jl-ccsf.github.io/coursework/cnit/133-xml/assignments/project_4/p4_financial_startup_clients.xml "View live page"):**
   - [Database](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.xml "p4_financial_startup_clients.xml"): `p4_financial_startup_clients.xml`
   - [Template](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.xsl "p4_financial_startup_clients.xsl"): `p4_financial_startup_clients.xsl`
   - [Stylesheet](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.css "p4_financial_startup_clients.css"): `p4_financial_startup_clients.css`
