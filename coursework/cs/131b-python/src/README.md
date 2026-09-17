@@ -22,7 +22,7 @@
 - [Languages](/coursework/cs/131b-python/src/languages.py "languages.py"): `languages.py`
 - [Numbers](/coursework/cs/131b-python/src/numbers.py "numbers.py"): `numbers.py`
 - [Paint a Room](/coursework/cs/131b-python/src/paint_room.py "paint_room.py"): `paint_room.py`
-- [Palindrome](/coursework/cs/131b-python/src/palindrome.py "palindrome.py"):** `palindrome.py`
+- [Palindrome](/coursework/cs/131b-python/src/palindrome.py "palindrome.py"): `palindrome.py`
 - [Payroll Report](/coursework/cs/131b-python/src/payroll_report.py "payroll_report.py"): `payroll_report.py`
 - [Percentages](/coursework/cs/131b-python/src/percentages.py "percentages.py"): `percentages.py`
 - [Rainfall Statistics](/coursework/cs/131b-python/src/rainfall_stats.py "rainfall_stats.py"): `rainfall_stats.py`
