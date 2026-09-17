@@ -1,5 +1,8 @@
-/*jl-ccsf 09-07-2026*/
-/*Portfolio Homepage Stylesheet Mini*/
+/* 
+ * jl-ccsf
+ * 09-07-2026
+ * Portfolio Homepage Stylesheet
+ */
 
 body {
     font-family: sans-serif;
@@ -35,7 +38,7 @@ h1 {
     margin: 1.5rem;
 }
 
-#initials {
+.initials {
     display: inline;
     font-weight: 900;
     -webkit-text-stroke: 0.125rem whitesmoke;
@@ -111,22 +114,22 @@ a:focus {
     outline: none;
 }
 
-#home {
+.home {
     border: 0.063rem solid whitesmoke;
     border-style: solid none solid solid;
 }
 
-#github {
+.github {
     border: 0.063rem solid whitesmoke;
     border-style: solid solid solid none;
 }
 
-.dropdown {
+.drop-menu {
     float: left;
     overflow: hidden;
 }
 
-.dropdown .drop-button {
+.drop-menu .drop-button {
     font-size: 1rem;
     font-weight: bold;
     color: whitesmoke;
@@ -138,7 +141,7 @@ a:focus {
     min-width: 15.625rem;
 }
 
-.navbar a:hover,.dropdown:hover .drop-button {
+.navbar a:hover,.drop-menu:hover .drop-button {
     background-color: whitesmoke;
     color: black;
     font-weight: bolder;
@@ -176,7 +179,7 @@ a:focus {
     font-weight: bold;
 }
 
-.dropdown:hover .drop-content {
+.drop-menu:hover .drop-content {
     display: block;
 }
 
