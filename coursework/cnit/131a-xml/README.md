@@ -36,7 +36,7 @@ Here are the free tools I used to write and validate my code.
 
 - **Validation:** [XML Validator](https://xmlable.com/validator/ "XML Validator") by XMLable
 
-- **Previewer:** [XSLT Visualizer](https://xmlable.com/xslt/ "XSLT Online") by XMLable
+- **Visualization:** [XSLT Visualizer](https://xmlable.com/xslt/ "XSLT Online") by XMLable
 
 ---
 
