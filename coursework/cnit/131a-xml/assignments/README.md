@@ -6,6 +6,8 @@
 
 # CNIT-131A Assignments
 
+You can browse these files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/131a-xml/index.html "JL XML Portfolio").
+
 ## [Project 1](/coursework/cnit/131a-xml/assignments/project_1 "View project files"): Course Homepage
 
 - [Webpage](/coursework/cnit/131a-xml/assignments/project_1/p1_cnit131a.html "p1_cnit131a.html"): `p1_cnit131a.html`
