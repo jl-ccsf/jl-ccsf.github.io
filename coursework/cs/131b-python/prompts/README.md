@@ -1,67 +1,49 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-131B TOC
+  CNIT-131B Prompts
 -->
 
-# CS-131B Assignments
+# CS-131B Assignment Prompts
 
-## [Projects](/coursework/cs/131b-python/assignments/projects "View projects")
+## [Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files")
 
-- **[Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files"): Degree Progress**
-  - [Program](/coursework/cs/131b-python/assignments/project_1/p1_degree_progress.py "p1_degree_progress.py"): `p1_degree_progress.py`
+- [Degree Progress](/coursework/cs/131b-python/prompts/p1_degree_progress.md "p1_degree_progress.md"): `p1_degree_progress.md`
  
-- **[Project 2](/coursework/cs/131b-python/assignments/project_2 "View project files"): Paint a Room**
-  - [Program](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.py "p2_paint_room.py"): `p2_paint_room.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
+## [Project 2](/coursework/cs/131b-python/assignments/project_2 "View project files")
 
-- **[Project 3](/coursework/cs/131b-python/assignments/project_3 "View project files"): Payroll Report**
-  - [Program](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.py "p3_payroll_report.py"): `p3_payroll_report.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
+- [Pain a Room](/coursework/cs/131b-python/prompts/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
 
-- **[Project 4](/coursework/cs/131b-python/assignments/project_4 "View project files"): Blog Entry**
-  - [Program](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.py "p4_blog_entry.py"): `p4_blog_entry.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
+## [Project 3](/coursework/cs/131b-python/assignments/project_3 "View project files")
 
-- **[Project 5](/coursework/cs/131b-python/assignments/project_5 "View project files"): Tournament Schedule**
-  - [Program](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.py "p5_tournament_schedule.py"): `p5_tournament_schedule.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
+- [Payroll Report](/coursework/cs/131b-python/prompts/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
 
-- **[Project 6](/coursework/cs/131b-python/assignments/project_6 "View project files"): Course Information**
-  - [Program](/coursework/cs/131b-python/assignments/project_6/p6_course_info.py "p6_course_info.py"): `p6_course_info.py`
+## [Project 4](/coursework/cs/131b-python/assignments/project_4 "View project files")
 
-- **[Project 7](/coursework/cs/131b-python/assignments/project_7 "View project files"): Invoice**
-  - [Class](/coursework/cs/131b-python/assignments/project_7/p7_invoice_class.py "p7_invoice_class.py"): `p7_invoice_class.py`
-  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p7_invoice_main.py"): `p7_invoice_main.py`
+- [Blog Entry](/coursework/cs/131b-python/prompts/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
 
-- **[Project 8](/coursework/cs/131b-python/assignments/project_8 "View project files"): Bank Account**
-  - [Class](/coursework/cs/131b-python/assignments/project_8/p8_account_class.py "p8_account_class.py"): `p8_account_class.py`
-  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_checking.py "p8_account_checking.py"): `p8_account_checking.py`
-  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_savings.py "p8_account_savings.py"): `p8_account_savings.py`
-  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p8_account_main.py"): `p8_account_main.py`
+## [Project 5](/coursework/cs/131b-python/assignments/project_5 "View project files")
 
-## [Exercises](/coursework/cs/131b-python/assignments/exercises "View exercises")
+- [Tournament Schedule](/coursework/cs/131b-python/prompts/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
 
-1. **[Zoo](/coursework/cs/131b-python/assignments/exercises/e1_zoo.py "e1_zoo.py"):** `e1_zoo.py`
-2. **[Join Sentence](/coursework/cs/131b-python/assignments/exercises/e2_join_sentence.py "e2_join_sentence.py"):** `e2_join_sentence.py`
-3. **[Social Network](/coursework/cs/131b-python/assignments/exercises/e3_social_network.py "e3_social_network.py"):** `e3_social_network.py`
-4. **[Top Songs](/coursework/cs/131b-python/assignments/exercises/e4_top_songs.py "e4_top_songs.py"):** `e4_top_songs.py`
-5. **[Keyword Count](/coursework/cs/131b-python/assignments/exercises/e5_keyword_count.py "e5_keyword_count.py"):** `e5_keyword_count.py`
-6. **[Languages](/coursework/cs/131b-python/assignments/exercises/e6_languages.py "e6_languages.py"):** `e6_languages.py`
-7. **[Percentages](/coursework/cs/131b-python/assignments/exercises/e7_percentages.py "e7_percentages.py"):** `e7_percentages.py`
-8. **[Numbers](/coursework/cs/131b-python/assignments/exercises/e8_numbers.py "e8_numbers.py"):** `e8_numbers.py`
+## [Project 6](/coursework/cs/131b-python/assignments/project_6 "View project files")
 
-## [Midterm](/coursework/cs/131b-python/assignments/midterm "View midterm")
+- [Course Info](/coursework/cs/131b-python/prompts/p6_course_info.md "p6_course_info.md"): `p6_course_info.md`
 
-- **[Contains](/coursework/cs/131b-python/assignments/midterm/m1_contains.py "m1_contains.py"):** `m1_contains.py`
-- **[Rainfall Statistics](/coursework/cs/131b-python/assignments/midterm/m2_rainfall_stats.py "m2_rainfall_stats.py"):** `m2_rainfall_stats.py`
+## [Project 7](/coursework/cs/131b-python/assignments/project_7 "View project files")
+
+- [Invoice](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p7_invoice_main.md"): `p7_invoice_main.md`
+
+## [Project 8](/coursework/cs/131b-python/assignments/project_8 "View project files")
+
+- [Bank Account](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p8_account_main.md"): `p8_account_main.md`
 
 ## [Extra Credit](/coursework/cs/131b-python/assignments/extra_credit "View extra credit")
 
-- **[Arithmetic](/coursework/cs/131b-python/assignments/extra_credit/x1_arithmetic.py "x1_arithmetic.py"):** `x1_arithmetic.py`
-- **[Reverse](/coursework/cs/131b-python/assignments/extra_credit/x2_reverse.py "x2_reverse.py"):** `x2_reverse.py`
-- **[Student Data](/coursework/cs/131b-python/assignments/extra_credit/x7_student_data.py "x7_student_data.py"):** `x7_student_data.py`
-- **[Palindrome](/coursework/cs/131b-python/assignments/extra_credit/x8_palindrome.py "x8_palindrome.py"):** `x8_palindrome.py`
+- [Arithmetic](/coursework/cs/131b-python/prompts/x1_arithmetic.md "x1_arithmetic.md"): `x1_arithmetic.md`
+- [Reverse](/coursework/cs/131b-python/prompts/x2_reverse.md "x2_reverse.md"): `x2_reverse.md`
+- [Student Data](/coursework/cs/131b-python/prompts/x7_student_data.md "x7_student_data.md"): `x7_student_data.md`
+- [Palindrome](/coursework/cs/131b-python/prompts/x8_palindrome.md "x8_palindrome.md"): `x8_palindrome.md`
 
 ---
 
