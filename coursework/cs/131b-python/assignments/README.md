@@ -58,10 +58,10 @@
 
 ## [Extra Credit](/coursework/cs/131b-python/assignments/extra_credit "View extra credit")
 
-- **[Arithmatic](/coursework/cs/131b-python/assignments/extra_credit/d1_arithmatic.py "d1_arithmatic.py"):** `d1_arithmatic.py`
-- **[Reverse](/coursework/cs/131b-python/assignments/extra_credit/d2_reverse.py "d2_reverse.py"):** `d2_reverse.py`
-- **[Student Data](/coursework/cs/131b-python/assignments/extra_credit/d7_student_data.py "d7_student_data.py"):** `d7_student_data.py`
-- **[Palindrome](/coursework/cs/131b-python/assignments/extra_credit/d8_palindrome.py "d8_palindrome.py"):** `d8_palindrome.py`
+- **[Arithmetic](/coursework/cs/131b-python/assignments/extra_credit/x1_arithmetic.py "x1_arithmetic.py"):** `x1_arithmetic.py`
+- **[Reverse](/coursework/cs/131b-python/assignments/extra_credit/x2_reverse.py "x2_reverse.py"):** `x2_reverse.py`
+- **[Student Data](/coursework/cs/131b-python/assignments/extra_credit/x7_student_data.py "x7_student_data.py"):** `x7_student_data.py`
+- **[Palindrome](/coursework/cs/131b-python/assignments/extra_credit/x8_palindrome.py "x8_palindrome.py"):** `x8_palindrome.py`
 
 ---
 
