@@ -8,13 +8,13 @@
 
 This course is in progress and will update weekly.
 
-## [Project 1](/coursework/cnit/133-javascript/assignments/project_01 "View project files"): Course Homepage
+## [Project 1](/coursework/cnit/133-javascript/assignments/project_01 "View project files")
 
 - [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "View live homepage")
   - [Webpage](/coursework/cnit/133-javascript/assignments/project_01/index.html "index.html"): `index.html`
   - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_01/index.css "index.css"): `index.css`
 
-## [Project 2](/coursework/cnit/133-javascript/assignments/project_02 "View project files"): Basic Operations
+## [Project 2](/coursework/cnit/133-javascript/assignments/project_02 "View project files")
 
 - [Main Page: Basic Operations](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02.html "View live page")
   - [Webpage](/coursework/cnit/133-javascript/assignments/project_02/hw02.html "hw02.html"): `hw02.html`
@@ -35,19 +35,24 @@ This course is in progress and will update weekly.
   - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_02/hw02_pt3.css "hw02_pt3.css"): `hw02_pt3.css`
   - [Script](/coursework/cnit/133-javascript/assignments/project_02/hw02_pt3.js "hw02_pt3.js"): `hw02_pt3.js`
 
-## [Project 3](/coursework/cnit/133-javascript/assignments/project_03): TBD
+## [Project 3](/coursework/cnit/133-javascript/assignments/project_03 "View project files")
 
-## [Project 4](/coursework/cnit/133-javascript/assignments/project_04): TBD
+- [TBD](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_03/hw03.html "View live page")
+  - [Webpage](/coursework/cnit/133-javascript/assignments/project_03/hw03.html "hw03.html"): `hw03.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_03/hw03.css "hw03.css"): `hw03.css`
+  - [Script](/coursework/cnit/133-javascript/assignments/project_03/hw03.js "hw03.js"): `hw03.js`
 
-## [Project 5](/coursework/cnit/133-javascript/assignments/project_05): TBD
+## [Project 4](/coursework/cnit/133-javascript/assignments/project_04 "View project files")
 
-## [Project 5](/coursework/cnit/133-javascript/assignments/project_05): TBD
+## [Project 5](/coursework/cnit/133-javascript/assignments/project_05 "View project files")
 
-## [Project 6](/coursework/cnit/133-javascript/assignments/project_06): TBD
+## [Project 5](/coursework/cnit/133-javascript/assignments/project_05 "View project files")
 
-## [Project 7](/coursework/cnit/133-javascript/assignments/project_07): TBD
+## [Project 6](/coursework/cnit/133-javascript/assignments/project_06 "View project files")
 
-## [Project 8](/coursework/cnit/133-javascript/assignments/project_08): TBD
+## [Project 7](/coursework/cnit/133-javascript/assignments/project_07 "View project files")
+
+## [Project 8](/coursework/cnit/133-javascript/assignments/project_08 "View project files")
 
 ---
 
