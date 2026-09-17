@@ -8,12 +8,12 @@
 
 This course is in progress and will update weekly.
 
-## [Project 1](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live homepage"): Course Homepage
+## [Project 1](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cnit133.html "View live homepage"): Course Homepage
 
-  - [Webpage](/coursework/cnit/133-javascript/src/cs133.html "cs133.html"): `cs133.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/cs133.css "cs133.css"): `cs133.css`
+  - [Webpage](/coursework/cnit/133-javascript/src/cnit133.html "cnit133.html"): `cnit133.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/cnit133.css "cnit133.css"): `cnit133.css`
 
-## [Project 2](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02.html "View live project page"): Basic Operations
+## [Project 2](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live project page"): Basic Operations
 
 - [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live project page")
   - [Webpage](/coursework/cnit/133-javascript/src/basic_ops.html "basic_ops.html"): `basic_ops.html`
@@ -34,13 +34,13 @@ This course is in progress and will update weekly.
   - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_rates.css "basic_ops_rates.css"): `basic_ops_rates.css`
   - [Script](/coursework/cnit/133-javascript/src/basic_ops_rates.js "basic_ops_rates.js"): `basic_ops_rates.js`
 
-## [Project 3](/coursework/cnit/133-javascript/assignments/project_03): TBD
+## [Project 3](/coursework/cnit/133-javascript/src/): TBD
 
-## [Project 4](/coursework/cnit/133-javascript/assignments/project_04): TBD
+## [Project 4](/coursework/cnit/133-javascript/src/): TBD
 
-## [Project 5](/coursework/cnit/133-javascript/assignments/project_05): TBD
+## [Project 5](/coursework/cnit/133-javascript/src): TBD
 
-## [Project 5](/coursework/cnit/133-javascript/assignments/project_05): TBD
+## [Project 5](/coursework/cnit/133-javascript/src): TBD
 
 ## [Project 6](/coursework/cnit/133-javascript/assignments/project_06): TBD
 
