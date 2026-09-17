@@ -8,7 +8,7 @@
 
 This course is in progress and will update weekly.
 
-## [Project 1](jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live homepage"): Course Homepage
+## [Project 1](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live homepage"): Course Homepage
 
   - [Webpage](/coursework/cnit/133-javascript/src/cs133.html "cs133.html"): `cs133.html`
   - [Stylesheet](/coursework/cnit/133-javascript/src/cs133.css "cs133.css"): `cs133.css`
