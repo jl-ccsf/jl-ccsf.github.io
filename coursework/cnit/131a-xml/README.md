@@ -10,7 +10,7 @@ Hi, I'm Jules, a web development and design student at [City College of San Fran
 
 ## Purpose
 
-In Spring 2026, I took the course [CNIT-131A: Introduction to XML & JSON](https://www.ccsf.edu/academics/ccsf-catalog/courses-by-department/computer-networking-and-information-technology "Computer Networking & Information Technology Dept") as part of CCSF's Web Application Programming Certificate program. Unfortunately, I had to withdraw from the class that semester, but I'm hoping to retake it Spring 2027. My first four assignments can be found in the [src](/coursework/cnit/131a-xml/src) or [assignments](/coursework/cnit/131-xml/assignments) folders. Here's the [table of contents](/coursework/cnit/131a-xml/assignments/contents.md).
+In Spring 2026, I took the course [CNIT-131A: Introduction to XML & JSON](https://www.ccsf.edu/academics/ccsf-catalog/courses-by-department/computer-networking-and-information-technology "Computer Networking & Information Technology Dept") as part of CCSF's Web Application Programming Certificate program. Unfortunately, I had to withdraw from the class that semester, but I'm hoping to retake it Spring 2027. My first four assignments can be found in the [src](/coursework/cnit/131a-xml/src) or [assignments](/coursework/cnit/131-xml/assignments) folders. Here's the [table of contents](/coursework/cnit/131a-xml/assignments/README.md).
 
 ## Feedback
 
