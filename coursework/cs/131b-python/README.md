@@ -48,6 +48,8 @@ Here are the free tools I use to write and validate my code.
 
 ### Attribution
 
-All files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. This content is protected against AI training by the [Really Simple Licensing Standard](/license.xml "license.xml") and the [Robots Exclusion Protocol](/robots.txt "robots.txt"); see the linked files for details. Guidelines for appropriate usage and sharing can be found in the [License](/LICENSE.md "LICENSE.md") file.
+All files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my assignments. 
 
-> Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International"). Protected by [RSL Standard 1.0](https://rslstandard.org/rsl "RSL") and [RFC 9309](https://datatracker.ietf.org/doc/html/rfc9309 "REP").
+This content is protected against AI training by the [Really Simple Licensing Standard](/license.xml "license.xml") and the [Robots Exclusion Protocol](/robots.txt "robots.txt"); see the linked files for details. Guidelines for appropriate usage and sharing can be found in the [License](/LICENSE.md "LICENSE.md") file.
+
+> Licensed under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International"). Protected by [RSL Standard 1.0](https://rslstandard.org/rsl "RSL") and [RFC 9309](https://datatracker.ietf.org/doc/html/rfc9309 "REP").
