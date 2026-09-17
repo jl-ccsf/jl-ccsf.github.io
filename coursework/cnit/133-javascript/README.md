@@ -6,7 +6,8 @@
 
 # CNIT-133: Javascript, jQuery, & AJAX
 
-Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home for my JavaScript coursework.
+Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home for my JavaScript coursework. You can browse the files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "JL JavaScript Portfolio").
+
 
 ## Purpose
 
