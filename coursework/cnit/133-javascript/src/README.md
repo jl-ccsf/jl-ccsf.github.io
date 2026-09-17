@@ -1,19 +1,20 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-133 All Files
+  CNIT-133 Source Files
 -->
 
 # CNIT-133 All Files
 
 This course is in progress and will update weekly.
 
-## [Project 1](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cnit133.html "View live homepage"): Course Homepage
+## [Project 1](/coursework/cnit/133-javascript/assignments/project_01 "View project files")
 
+- [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cnit133.html "View live homepage")
   - [Webpage](/coursework/cnit/133-javascript/src/cnit133.html "cnit133.html"): `cnit133.html`
   - [Stylesheet](/coursework/cnit/133-javascript/src/cnit133.css "cnit133.css"): `cnit133.css`
 
-## [Project 2](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live page"): Basic Operations
+## [Project 2](/coursework/cnit/133-javascript/assignments/project_02 "View project files")
 
 - [Main Page: Basic Operations](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live page")
   - [Webpage](/coursework/cnit/133-javascript/src/basic_ops.html "basic_ops.html"): `basic_ops.html`
@@ -34,19 +35,24 @@ This course is in progress and will update weekly.
   - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_rates.css "basic_ops_rates.css"): `basic_ops_rates.css`
   - [Script](/coursework/cnit/133-javascript/src/basic_ops_rates.js "basic_ops_rates.js"): `basic_ops_rates.js`
 
-## [Project 3](/coursework/cnit/133-javascript/src/): TBD
+## [Project 3](/coursework/cnit/133-javascript/assignments/project_03 "View project files")
 
-## [Project 4](/coursework/cnit/133-javascript/src/): TBD
+- [TBD](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw03.html "View live page")
+  - [Webpage](/coursework/cnit/133-javascript/src/hw03.html "hw03.html"): `hw03.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/hw03.css "hw03.css"): `hw03.css`
+  - [Script](/coursework/cnit/133-javascript/src/hw03.js "hw03.js"): `hw03.js`
 
-## [Project 5](/coursework/cnit/133-javascript/src): TBD
+## [Project 4](/coursework/cnit/133-javascript/assignments/project_03 "View project files")
 
-## [Project 5](/coursework/cnit/133-javascript/src): TBD
+## [Project 5](/coursework/cnit/133-javascript/assignments/project_04 "View project files")
 
-## [Project 6](/coursework/cnit/133-javascript/assignments/project_06): TBD
+## [Project 5](/coursework/cnit/133-javascript/assignments/project_05 "View project files")
 
-## [Project 7](/coursework/cnit/133-javascript/assignments/project_07): TBD
+## [Project 6](/coursework/cnit/133-javascript/assignments/project_06 "View project files")
 
-## [Project 8](/coursework/cnit/133-javascript/assignments/project_08): TBD
+## [Project 7](/coursework/cnit/133-javascript/assignments/project_07 "View project files")
+
+## [Project 8](/coursework/cnit/133-javascript/assignments/project_08 "View project files")
 
 ---
 
