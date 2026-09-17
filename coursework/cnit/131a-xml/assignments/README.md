@@ -35,4 +35,4 @@
 
 All files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. This content is protected against AI training by the [Really Simple Licensing Standard](/license.xml "license.xml") and the [Robots Exclusion Protocol](/robots.txt "robots.txt"); see the linked files for details. Guidelines for appropriate usage and sharing can be found in the [License](/LICENSE.md "LICENSE.md") file.
 
-> Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International"). Protected by [Really Simple Licensing 1.0](https://rslstandard.org/rsl "RSL") and [RFC 9309 Robots Exclusion Protocol](https://datatracker.ietf.org/doc/html/rfc9309 "REP").
+> Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International"). Protected by [RSL Standard 1.0](https://rslstandard.org/rsl "RSL") and [RFC 9309](https://datatracker.ietf.org/doc/html/rfc9309 "REP").
