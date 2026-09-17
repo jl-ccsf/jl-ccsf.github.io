@@ -4,35 +4,34 @@
   CNIT-131A TOC
 -->
 
-# CNIT-131A Assignments
+# CNIT-131A All Files
 
-## [Project 1](/coursework/cnit/131a-xml/assignments/project_1): Course Homepage
+## [Course Homepage](jl-ccsf.github.io/coursework/cnit/131a-xml/index.html "View live")
 
-- [Webpage](/coursework/cnit/131a-xml/assignments/project_1/p1_cnit131a.html): `p1_cnit131a.html`
-- [Stylesheet](/coursework/cnit/131a-xml/assignments/project_1/p1_cnit131a.css): `p1_cnit131a.css`
+- [Webpage](/coursework/cnit/131a-xml/src/cnit131a.html): `cnit131a.html`
+- [Stylesheet](/coursework/cnit/131a-xml/src/cnit131a.css): `cnit131a.css`
 
-## [Project 2](/coursework/cnit/131a-xml/assignments/project_2): Book Donations Catalog
+## [Book Donations Catalog](jl-ccsf.github.io/coursework/cnit/131a-xml/src/book_donations_catalog.xml "View live")
 
-- [Database](/coursework/cnit/131a-xml/assignments/project_2/p2_book_donations_catalog.xml): `p2_book_donations_catalog.xml`
-- [Stylesheet](/coursework/cnit/131a-xml/assignments/project_2/p2_book_donations_catalog.css): `p2_book_donations_catalog.css`
+- [Database](/coursework/cnit/131a-xml/src/book_donations_catalog.xml): `book_donations_catalog.xml`
+- [Stylesheet](/coursework/cnit/131a-xml/src/book_donations_catalog.css): `book_donations_catalog.css`
 
-## [Project 3](/coursework/cnit/131a-xml/assignments/project_3): Client Accounts Ledger
+## [Client Accounts Ledger](jl-ccsf.github.io/coursework/cnit/131a-xml/src/client_accounts_ledger.xml "View live")
 
-- [Database](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.xml): `p3_client_accounts_ledger.xml`
-- [Template](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.xsl): `p3_client_accounts_ledger.xsl`
-- [Stylesheet](/coursework/cnit/131a-xml/assignments/project_3/p3_client_accounts_ledger.css): `p3_client_accounts_ledger.css`
+- [Database](/coursework/cnit/131a-xml/src/client_accounts_ledger.xml): `client_accounts_ledger.xml`
+- [Template](/coursework/cnit/131a-xml/src/client_accounts_ledger.xsl): `client_accounts_ledger.xsl`
+- [Stylesheet](/coursework/cnit/131a-xml/src/client_accounts_ledger.css): `client_accounts_ledger.css`
 
-## [Project 4](/coursework/cnit/131a-xml/assignments/project_4): Financial Startup Clients
+## [Financial Startup Clients](jl-ccsf.github.io/coursework/cnit/131a-xml/src/financial_startup_clients.xml "View live")
 
-- [Database](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.xml): `p4_financial_startup_clients.xml`
-- [Template](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.xsl): `p4_financial_startup_clients.xsl`
-- [Stylesheet](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup_clients.css): `p4_financial_startup_clients.css`
-- [Image](/coursework/cnit/131a-xml/assignments/project_4/p4_financial_startup,jpg): `p4_financial_startup.jpg`
+- [Database](/coursework/cnit/131a-xml/src/financial_startup_clients.xml): `financial_startup_clients.xml`
+- [Template](/coursework/cnit/131a-xml/src/financial_startup_clients.xsl): `financial_startup_clients.xsl`
+- [Stylesheet](/coursework/cnit/131a-xml/src/financial_startup_clients.css): `financial_startup_clients.css`
 
 ---
 
 ### Attribution
 
-All codes are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. Guidelines for appropriate usage and sharing can be found in the [License](/LICENSE.md) file.
+All files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. This content is protected against AI training by [Really Simple Licensing](https://rslstandard.org/ "RSL Standard") and the [Robots Exclusion Protocol](https://www.robotstxt.org/robotstxt.html "Robotstxt"). See the [RSL](/license.xml "license.xml") and [REP](/robots.txt "robots.txt") files for details. Guidelines for appropriate usage and sharing can be found in the [License](/LICENSE.md "LICENSE.md") file.
 
-Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
+> Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International"). Protected by [Really Simple Licensing 1.0](https://rslstandard.org/rsl "RSL") and [RFC 9309 Robots Exclusion Protocol](https://datatracker.ietf.org/doc/html/rfc9309 "REP"). 
