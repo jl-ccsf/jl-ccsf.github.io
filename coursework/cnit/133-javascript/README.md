@@ -11,7 +11,7 @@ Hi, I'm Jules, a web development and design student at [City College of San Fran
 
 ## Purpose
 
-As of Fall 2026, I'm enrolled in [CNIT-133: JavaScript, jQuery, & AJAX](https://ccsf.curricunet.com/catalog/iq/courses/3/48 "CNIT courses") as part of the [Web Application Programming Certificate](https://ccsf.curricunet.com/catalog/iq/programs/science-technology-engineering-mathematics/2075/2686 "Certificate requirements") program. I'll be uploading my weekly projects to the [Assignments](coursework/cnit/133-javascript/assignments "/assignments") folder. Here's the [table of contents](/coursework/cnit/133-javascript/assignments/README.md "README.md").
+As of Fall 2026, I'm enrolled in [CNIT-133: JavaScript, jQuery, & AJAX](https://ccsf.curricunet.com/DynamicReports/AllFieldsReportByEntity/8179?entityType=Course&reportId=28 "Course outline") as part of the [Web Application Programming Certificate](https://ccsf.curricunet.com/catalog/iq/programs/science-technology-engineering-mathematics/2075/2686 "Certificate requirements") program. I'll be uploading my weekly projects to the [Assignments](coursework/cnit/133-javascript/assignments "/assignments") folder. Here's the [table of contents](/coursework/cnit/133-javascript/assignments/README.md "README.md").
 
 ## Feedback
 
