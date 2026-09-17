@@ -1,67 +1,37 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-131B TOC
+  CNIT-131B Source Files
 -->
 
-# CS-131B Assignments
+# CS-131B All Files
 
-## [Projects](/coursework/cs/131b-python/assignments/projects "View projects")
-
-- **[Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files"): Degree Progress**
-  - [Program](/coursework/cs/131b-python/assignments/project_1/p1_degree_progress.py "p1_degree_progress.py"): `p1_degree_progress.py`
- 
-- **[Project 2](/coursework/cs/131b-python/assignments/project_2 "View project files"): Paint a Room**
-  - [Program](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.py "p2_paint_room.py"): `p2_paint_room.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
-
-- **[Project 3](/coursework/cs/131b-python/assignments/project_3 "View project files"): Payroll Report**
-  - [Program](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.py "p3_payroll_report.py"): `p3_payroll_report.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
-
-- **[Project 4](/coursework/cs/131b-python/assignments/project_4 "View project files"): Blog Entry**
-  - [Program](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.py "p4_blog_entry.py"): `p4_blog_entry.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
-
-- **[Project 5](/coursework/cs/131b-python/assignments/project_5 "View project files"): Tournament Schedule**
-  - [Program](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.py "p5_tournament_schedule.py"): `p5_tournament_schedule.py`
-  - [Prompt](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
-
-- **[Project 6](/coursework/cs/131b-python/assignments/project_6 "View project files"): Course Information**
-  - [Program](/coursework/cs/131b-python/assignments/project_6/p6_course_info.py "p6_course_info.py"): `p6_course_info.py`
-
-- **[Project 7](/coursework/cs/131b-python/assignments/project_7 "View project files"): Invoice**
-  - [Class](/coursework/cs/131b-python/assignments/project_7/p7_invoice_class.py "p7_invoice_class.py"): `p7_invoice_class.py`
-  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p7_invoice_main.py"): `p7_invoice_main.py`
-
-- **[Project 8](/coursework/cs/131b-python/assignments/project_8 "View project files"): Bank Account**
-  - [Class](/coursework/cs/131b-python/assignments/project_8/p8_account_class.py "p8_account_class.py"): `p8_account_class.py`
-  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_checking.py "p8_account_checking.py"): `p8_account_checking.py`
-  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_savings.py "p8_account_savings.py"): `p8_account_savings.py`
-  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p8_account_main.py"): `p8_account_main.py`
-
-## [Exercises](/coursework/cs/131b-python/assignments/exercises "View exercises")
-
-1. **[Zoo](/coursework/cs/131b-python/assignments/exercises/e1_zoo.py "e1_zoo.py"):** `e1_zoo.py`
-2. **[Join Sentence](/coursework/cs/131b-python/assignments/exercises/e2_join_sentence.py "e2_join_sentence.py"):** `e2_join_sentence.py`
-3. **[Social Network](/coursework/cs/131b-python/assignments/exercises/e3_social_network.py "e3_social_network.py"):** `e3_social_network.py`
-4. **[Top Songs](/coursework/cs/131b-python/assignments/exercises/e4_top_songs.py "e4_top_songs.py"):** `e4_top_songs.py`
-5. **[Keyword Count](/coursework/cs/131b-python/assignments/exercises/e5_keyword_count.py "e5_keyword_count.py"):** `e5_keyword_count.py`
-6. **[Languages](/coursework/cs/131b-python/assignments/exercises/e6_languages.py "e6_languages.py"):** `e6_languages.py`
-7. **[Percentages](/coursework/cs/131b-python/assignments/exercises/e7_percentages.py "e7_percentages.py"):** `e7_percentages.py`
-8. **[Numbers](/coursework/cs/131b-python/assignments/exercises/e8_numbers.py "e8_numbers.py"):** `e8_numbers.py`
-
-## [Midterm](/coursework/cs/131b-python/assignments/midterm "View midterm")
-
-- **[Contains](/coursework/cs/131b-python/assignments/midterm/m1_contains.py "m1_contains.py"):** `m1_contains.py`
-- **[Rainfall Statistics](/coursework/cs/131b-python/assignments/midterm/m2_rainfall_stats.py "m2_rainfall_stats.py"):** `m2_rainfall_stats.py`
-
-## [Extra Credit](/coursework/cs/131b-python/assignments/extra_credit "View extra credit")
-
-- **[Arithmatic](/coursework/cs/131b-python/assignments/extra_credit/d1_arithmatic.py "d1_arithmatic.py"):** `d1_arithmatic.py`
-- **[Reverse](/coursework/cs/131b-python/assignments/extra_credit/d2_reverse.py "d2_reverse.py"):** `d2_reverse.py`
-- **[Student Data](/coursework/cs/131b-python/assignments/extra_credit/d7_student_data.py "d7_student_data.py"):** `d7_student_data.py`
-- **[Palindrome](/coursework/cs/131b-python/assignments/extra_credit/d8_palindrome.py "d8_palindrome.py"):** `d8_palindrome.py`
+- [Arithmetic](/coursework/cs/131b-python/src/arithmetic.py "arithmetic.py"):** `arithmetic.py`
+- [Blog Entry](/coursework/cs/131b-python/src/blog_entry.py "blog_entry.py"): `blog_entry.py`
+- [Bank Account - Class](/coursework/cs/131b-python/src/account_class.py "account_class.py"): `account_class.py`
+- [Bank Account - Checking Subclass](/coursework/cs/131b-python/src/account_checking.py "account_checking.py"): `account_checking.py`
+- [Bank Account - Savings Subclass](/coursework/cs/131b-python/src/account_savings.py "account_savings.py"): `account_savings.py`
+- [Bank Account - Main](/coursework/cs/131b-python/src/invoice_main.py "account_main.py"): `account_main.py`
+- [Contains](/coursework/cs/131b-python/src/contains.py "contains.py"): `contains.py`
+- [Course Information](/coursework/cs/131b-python/src/course_info.py "course_info.py"): `course_info.py`
+- [Degree Progress](/coursework/cs/131b-python/src/degree_progress.py "degree_progress.py"): `degree_progress.py`
+- [Invoice - Class](/coursework/cs/131b-python/src/invoice_class.py "invoice_class.py"): `invoice_class.py`
+- [Invoice - Main](/coursework/cs/131b-python/src/invoice_main.py "invoice_main.py"): `invoice_main.py`
+- [Join Sentence](/coursework/cs/131b-python/src/join_sentence.py "join_sentence.py"): `join_sentence.py`
+- [Keyword Count](/coursework/cs/131b-python/src/keyword_count.py "keyword_count.py"): `keyword_count.py`
+- [Languages](/coursework/cs/131b-python/src/languages.py "languages.py"): `languages.py`
+- [Numbers](/coursework/cs/131b-python/src/numbers.py "numbers.py"): `numbers.py`
+- [Paint a Room](/coursework/cs/131b-python/src/paint_room.py "paint_room.py"): `paint_room.py`
+- [Palindrome](/coursework/cs/131b-python/src/palindrome.py "palindrome.py"):** `palindrome.py`
+- [Payroll Report](/coursework/cs/131b-python/src/payroll_report.py "payroll_report.py"): `payroll_report.py`
+- [Percentages](/coursework/cs/131b-python/src/percentages.py "percentages.py"): `percentages.py`
+- [Rainfall Statistics](/coursework/cs/131b-python/src/rainfall_stats.py "rainfall_stats.py"): `rainfall_stats.py`
+- [Reverse](/coursework/cs/131b-python/src/reverse.py "reverse.py"):** `reverse.py`
+- [Social Network](/coursework/cs/131b-python/src/social_network.py "social_network.py"): `social_network.py`
+- [Student Data](/coursework/cs/131b-python/src/student_data.py "student_data.py"):** `student_data.py`
+- [Top Songs](/coursework/cs/131b-python/src/top_songs.py "top_songs.py"): `top_songs.py`
+- [Tournament Schedule](/coursework/cs/131b-python/src/tournament_schedule.py "tournament_schedule.py"): `tournament_schedule.py`
+- [Zoo](/coursework/cs/131b-python/src/zoo.py "zoo.py"): `zoo.py`
 
 ---
 
