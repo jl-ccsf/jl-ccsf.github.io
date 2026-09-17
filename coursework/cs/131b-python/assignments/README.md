@@ -6,6 +6,8 @@
 
 # CS-131B Assignments
 
+You can browse these files online at my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cs/131b-python/index.html "JL Python Portfolio").
+
 ## [Projects](/coursework/cs/131b-python/assignments/projects "View projects")
 
 - **[Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files"): Degree Progress**
