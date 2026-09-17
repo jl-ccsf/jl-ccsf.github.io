@@ -8,7 +8,7 @@
 
 Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This is the home for my course assignments and personal projects.
 
-Check out my [portfolio-in-progress](jl-ccsf.github.io/index.html "JL Portfolio") and let me know what you think :bowtie:
+Check out my [portfolio-in-progress](https://jl-ccsf.github.io/index.html "JL Portfolio") and let me know what you think :bowtie:
 
 ## Feedback
 
