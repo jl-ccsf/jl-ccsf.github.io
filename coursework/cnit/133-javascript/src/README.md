@@ -8,31 +8,31 @@
 
 This course is in progress and will update weekly.
 
-## [Project 1](jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live"): Course Homepage
+## [Project 1](jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live homepage"): Course Homepage
 
-  - [Webpage](/coursework/cnit/133-javascript/src/cs133.html): `cs133.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/cs133.css): `cs133.css`
+  - [Webpage](/coursework/cnit/133-javascript/src/cs133.html "cs133.html"): `cs133.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/cs133.css "cs133.css"): `cs133.css`
 
-## [Project 2](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02.html): Basic Operations
+## [Project 2](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02.html "View live project page"): Basic Operations
 
-- [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops.html): `basic_ops.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops.css): `basic_ops.css`
+- [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops.html "View live project page")
+  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops.html "basic_ops.html"): `basic_ops.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops.css "basic_ops.css"): `basic_ops.css`
 
-- [Part 1: Text Styling](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02_pt1.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_text.html): `basic_ops_text.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_text.css): `basic_ops_text.css`
-  - [Script](/coursework/cnit/133-javascript/src/basic_ops_text.js): `basic_ops_text.js`
+- [Part 1: Text Styling](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops_text.html "View live page")
+  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_text.html "basic_ops_text.html"): `basic_ops_text.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_text.css "basic_ops_text.css"): `basic_ops_text.css`
+  - [Script](/coursework/cnit/133-javascript/src/basic_ops_text.js "basic_ops_text.js"): `basic_ops_text.js`
 
-- [Part 2: Input Boxes](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops_input.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_input.html): `basic_ops_input.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_input.css): `basic_ops_input.css`
-  - [Script](/coursework/cnit/133-javascript/src/basic_ops_input.js): `basic_ops_input.js`
+- [Part 2: Input Boxes](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops_input.html "View live page")
+  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_input.html "basic_ops_input.html"): `basic_ops_input.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_input.css "basic_ops_input.css"): `basic_ops_input.css`
+  - [Script](/coursework/cnit/133-javascript/src/basic_ops_input.js "basic_ops_input.js"): `basic_ops_input.js`
 
-- [Part 3: Monetary Conversion Rates](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops_rates.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_rates.html): `basic_ops_rates.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_rates.css): `basic_ops_rates.css`
-  - [Script](/coursework/cnit/133-javascript/src/basic_ops_rates.js): `basic_ops_rates.js`
+- [Part 3: Monetary Conversion Rates](jl-ccsf.github.io/coursework/cnit/133-javascript/src/basic_ops_rates.html "View live page")
+  - [Webpage](/coursework/cnit/133-javascript/src/basic_ops_rates.html "basic_ops_rates.html"): `basic_ops_rates.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/basic_ops_rates.css "basic_ops_rates.css"): `basic_ops_rates.css`
+  - [Script](/coursework/cnit/133-javascript/src/basic_ops_rates.js "basic_ops_rates.js"): `basic_ops_rates.js`
 
 ## [Project 3](/coursework/cnit/133-javascript/assignments/project_03): TBD
 
