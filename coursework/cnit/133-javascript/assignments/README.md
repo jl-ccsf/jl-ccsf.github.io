@@ -6,7 +6,7 @@
 
 # CNIT-133 Assignments
 
-This course is in progress and will update weekly.
+This course is in progress and will update weekly. You can browse the files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "JL JavaScript Portfolio").
 
 ## [Project 1](/coursework/cnit/133-javascript/assignments/project_01 "View project files")
 
