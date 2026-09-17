@@ -1,35 +1,38 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-133 TOC
+  CNIT-133 All Files
 -->
 
-# CNIT-133 Assignments
+# CNIT-133 All Files
 
 This course is in progress and will update weekly.
 
-## [Project 1](/coursework/cnit/133-javascript/assignments/project_01): Course Homepage
+## [Project 1](jl-ccsf.github.io/coursework/cnit/133-javascript/src/cs133.html "View live"): Course Homepage
 
-- [Course Homepage](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_01/index.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/assignments/project_01/index.html): `index.html`
-  - [Stylesheet](/coursework/cnit/133-javascript/assignments/project_01/index.css): `index.css`
+  - [Webpage](/coursework/cnit/133-javascript/src/cs133.html): `cs133.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/cs133.css): `cs133.css`
 
-## [Project 2](/coursework/cnit/133-javascript/assignments/project_02): Basic Operations
+## [Project 2](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02.html): Basic Operations
 
-- [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02.html "View live")
-  - [Webpage](/coursework/cnit/133-javascript/assignments/project_02/hw02.html): `hw02.html`
+- [Main Page: Basic Operations](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02.html "View live")
+  - [Webpage](/coursework/cnit/133-javascript/src/hw02.html): `hw02.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/hw02.css): `hw02.css`
 
-- [Part 1: Text Styling](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02_pt1.html "View live")
-  - [Webpage](): `hw02_pt1.html`
-  - [Script](): `hw02_pt1.js`
+- [Part 1: Text Styling](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02_pt1.html "View live")
+  - [Webpage](/coursework/cnit/133-javascript/src/hw02_pt1.html): `hw02_pt1.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/hw02_pt1.css): `hw02_pt1.css`
+  - [Script](/coursework/cnit/133-javascript/src/hw02_pt1.js): `hw02_pt1.js`
 
-- [Part 2: Input Boxes](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02_pt2.html "View live")
-  - [Webpage](): `hw02_pt2.html`
-  - [Script](): `hw02_pt2.js`
+- [Part 2: Input Boxes](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02_pt2.html "View live")
+  - [Webpage](/coursework/cnit/133-javascript/src/hw02_pt2.html): `hw02_pt2.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/hw02_pt2.css): `hw02_pt2.css`
+  - [Script](/coursework/cnit/133-javascript/src/hw02_pt2.js): `hw02_pt2.js`
 
-- [Part 3: Monetary Conversion Rates](jl-ccsf.github.io/coursework/cnit/133-javascript/assignments/project_02/hw02_pt3.html "View live")
-  - [Webpage](): `hw02_pt3.html`
-  - [Script](): `hw02_pt3.js`
+- [Part 3: Monetary Conversion Rates](jl-ccsf.github.io/coursework/cnit/133-javascript/src/hw02_pt3.html "View live")
+  - [Webpage](/coursework/cnit/133-javascript/src/hw02_pt3.html): `hw02_pt3.html`
+  - [Stylesheet](/coursework/cnit/133-javascript/src/hw02_pt3.css): `hw02_pt3.css`
+  - [Script](/coursework/cnit/133-javascript/src/hw02_pt3.js): `hw02_pt3.js`
 
 ## [Project 3](/coursework/cnit/133-javascript/assignments/project_03): TBD
 
