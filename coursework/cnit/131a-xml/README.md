@@ -6,7 +6,7 @@
 
 # CNIT-131A: Intro to XML & JSON
 
-Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home of my XML coursework.
+Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home of my XML coursework. You can browse the files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/131a-xml/index.html "JL XML Portfolio").
 
 ## Purpose
 
