@@ -6,37 +6,16 @@
 
 # CS-131B Assignment Prompts
 
-## [Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files")
+## [Projects](/coursework/cs/131b-python/assignments/projects "View project files")
 
-- [Degree Progress](/coursework/cs/131b-python/prompts/p1_degree_progress.md "p1_degree_progress.md"): `p1_degree_progress.md`
- 
-## [Project 2](/coursework/cs/131b-python/assignments/project_2 "View project files")
-
-- [Pain a Room](/coursework/cs/131b-python/prompts/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
-
-## [Project 3](/coursework/cs/131b-python/assignments/project_3 "View project files")
-
-- [Payroll Report](/coursework/cs/131b-python/prompts/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
-
-## [Project 4](/coursework/cs/131b-python/assignments/project_4 "View project files")
-
-- [Blog Entry](/coursework/cs/131b-python/prompts/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
-
-## [Project 5](/coursework/cs/131b-python/assignments/project_5 "View project files")
-
-- [Tournament Schedule](/coursework/cs/131b-python/prompts/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
-
-## [Project 6](/coursework/cs/131b-python/assignments/project_6 "View project files")
-
-- [Course Info](/coursework/cs/131b-python/prompts/p6_course_info.md "p6_course_info.md"): `p6_course_info.md`
-
-## [Project 7](/coursework/cs/131b-python/assignments/project_7 "View project files")
-
-- [Invoice](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p7_invoice_main.md"): `p7_invoice_main.md`
-
-## [Project 8](/coursework/cs/131b-python/assignments/project_8 "View project files")
-
-- [Bank Account](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p8_account_main.md"): `p8_account_main.md`
+1. [Degree Progress](/coursework/cs/131b-python/prompts/p1_degree_progress.md "p1_degree_progress.md"): `p1_degree_progress.md`
+2. [Paint a Room](/coursework/cs/131b-python/prompts/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
+3. [Payroll Report](/coursework/cs/131b-python/prompts/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
+4. [Blog Entry](/coursework/cs/131b-python/prompts/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
+5. [Tournament Schedule](/coursework/cs/131b-python/prompts/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
+6. [Course Info](/coursework/cs/131b-python/prompts/p6_course_info.md "p6_course_info.md"): `p6_course_info.md`
+7. [Invoice](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p7_invoice_main.md"): `p7_invoice_main.md`
+8. [Bank Account](/coursework/cs/131b-python/prompts/p7_invoice_main.md "p8_account_main.md"): `p8_account_main.md`
 
 ## [Extra Credit](/coursework/cs/131b-python/assignments/extra_credit "View extra credit")
 
