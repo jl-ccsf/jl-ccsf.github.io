@@ -1,7 +1,7 @@
 /* 
- * jl-ccsf
- * 09-07-2026
- * Portfolio Homepage Stylesheet
+ *     jl-ccsf
+ *     09-16-2026
+ *     Portfolio Homepage Stylesheet
  */
 
 body {
@@ -54,7 +54,17 @@ p {
     line-height: 1.5;
 }
 
-ul,li {
+asterisk {
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+strong {
+    display: inline;
+    font-weight: bold;
+}
+
+ul, li {
     font-size: 1rem;
     line-height: 1.75;
 }
@@ -193,4 +203,8 @@ footer {
 .padded-box {
     padding: 1.25rem;
     border: 0.063rem solid whitesmoke;
+}
+
+.copyleft {
+    font-size: 0.9rem;
 }
