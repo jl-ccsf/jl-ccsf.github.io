@@ -1,48 +1,67 @@
 <!--
   jl-ccsf
   09/16/2026
-  CNIT-131B
+  CNIT-131B TOC
 -->
 
-# CS-131B: Programming Fundamentals: Python
+# CS-131B Assignments
 
-Hi, I'm Jules, a web development and design student at [City College of San Francisco](https://www.ccsf.edu/ "CCSF") online. This directory is the home for my Python coursework.
+## [Projects](/coursework/cs/131b-python/assignments/projects "View projects")
 
-## Purpose
-
-In Summer 2026, I took the course [CNIT-131B: Programming Fundamentals: Python](https://ccsf.curricunet.com/DynamicReports/AllFieldsReportByEntity/10416?entityType=Course&reportId=28 "Course outline") as part of the [Web Application Programming Certificate](https://ccsf.curricunet.com/catalog/iq/programs/science-technology-engineering-mathematics/2075/2686 "Certificate requirements") program. My weekly projects can be found in the [Assignments](/coursework/cs/131b-python/assignments "/assignments") folder. Here's the [table of contents](/coursework/cs/131b-python/assignments/README.md "README.md").
-
-## Feedback
-
-If you're a fellow student at CCSF (or elsewhere!) feel free to leave a comment in my [Guestbook](https://github.com/jl-ccsf/jl-ccsf.github.io/discussions/1 "GitHub Discussions"). To contact me directly, email [jl-ccsf@proton.me](mailto:jl-ccsf@proton.me?subject=Re:CNIT-133 "Email me").
-
-For guidelines on appropriate behavior and communication, please see the [Code of Conduct](/CODE_OF_CONDUCT.md "CODE_OF_CONDUCT.md").
-
-## Resources
-
-Here are the free tools I use to write and validate my code.
-
-- **Python:** [Python 3.14.7](https://www.python.org/ "Python") by the Python Software Foundation
-
-- **Package Installer:** [pip 26.2.1](https://pypi.org/project/pip/ "PyPI") by the Python Package Index
-
-- **IDE:** [Visual Studio Code](https://code.visualstudio.com/download?_exp_download=fb315fc982 "VSC")\* by Microsoft
-
-- **VSC Extensions:**
-
-  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python "VSC Marketplace") by Microsoft
-
-  - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "VSC Marketplace") by Microsoft
-  
-  - [Python Environments](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs "VSC Marketplace") by Microsoft
+- **[Project 1](/coursework/cs/131b-python/assignments/project_1 "View project files"): Degree Progress**
+  - [Program](/coursework/cs/131b-python/assignments/project_1/p1_degree_progress.py "p1_degree_progress.py"): `p1_degree_progress.py`
  
-  - [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "VSC Marketplace") by David Anson
+- **[Project 2](/coursework/cs/131b-python/assignments/project_2 "View project files"): Paint a Room**
+  - [Program](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.py "p2_paint_room.py"): `p2_paint_room.py`
+  - [Prompt](/coursework/cs/131b-python/assignments/project_2/p2_paint_room.md "p2_paint_room.md"): `p2_paint_room.md`
 
-  - [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub "VSC Marketplace") by GitHub
+- **[Project 3](/coursework/cs/131b-python/assignments/project_3 "View project files"): Payroll Report**
+  - [Program](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.py "p3_payroll_report.py"): `p3_payroll_report.py`
+  - [Prompt](/coursework/cs/131b-python/assignments/project_3/p3_payroll_report.md "p3_payroll_report.md"): `p3_payroll_report.md`
 
-  - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter "VSC Marketplace")\* by The Jupyter Project
+- **[Project 4](/coursework/cs/131b-python/assignments/project_4 "View project files"): Blog Entry**
+  - [Program](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.py "p4_blog_entry.py"): `p4_blog_entry.py`
+  - [Prompt](/coursework/cs/131b-python/assignments/project_4/p4_blog_entry.md "p4_blog_entry.md"): `p4_blog_entry.md`
 
-\**AI tools disabled*
+- **[Project 5](/coursework/cs/131b-python/assignments/project_5 "View project files"): Tournament Schedule**
+  - [Program](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.py "p5_tournament_schedule.py"): `p5_tournament_schedule.py`
+  - [Prompt](/coursework/cs/131b-python/assignments/project_5/p5_tournament_schedule.md "p5_tournament_schedule.md"): `p5_tournament_schedule.md`
+
+- **[Project 6](/coursework/cs/131b-python/assignments/project_6 "View project files"): Course Information**
+  - [Program](/coursework/cs/131b-python/assignments/project_6/p6_course_info.py "p6_course_info.py"): `p6_course_info.py`
+
+- **[Project 7](/coursework/cs/131b-python/assignments/project_7 "View project files"): Invoice**
+  - [Class](/coursework/cs/131b-python/assignments/project_7/p7_invoice_class.py "p7_invoice_class.py"): `p7_invoice_class.py`
+  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p7_invoice_main.py"): `p7_invoice_main.py`
+
+- **[Project 8](/coursework/cs/131b-python/assignments/project_8 "View project files"): Bank Account**
+  - [Class](/coursework/cs/131b-python/assignments/project_8/p8_account_class.py "p8_account_class.py"): `p8_account_class.py`
+  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_checking.py "p8_account_checking.py"): `p8_account_checking.py`
+  - [Subclass](/coursework/cs/131b-python/assignments/project_8/p8_account_savings.py "p8_account_savings.py"): `p8_account_savings.py`
+  - [Program](/coursework/cs/131b-python/assignments/project_7/p7_invoice_main.py "p8_account_main.py"): `p8_account_main.py`
+
+## [Exercises](/coursework/cs/131b-python/assignments/exercises "View exercises")
+
+1. **[Zoo](/coursework/cs/131b-python/assignments/exercises/e1_zoo.py "e1_zoo.py"):** `e1_zoo.py`
+2. **[Join Sentence](/coursework/cs/131b-python/assignments/exercises/e2_join_sentence.py "e2_join_sentence.py"):** `e2_join_sentence.py`
+3. **[Social Network](/coursework/cs/131b-python/assignments/exercises/e3_social_network.py "e3_social_network.py"):** `e3_social_network.py`
+4. **[Top Songs](/coursework/cs/131b-python/assignments/exercises/e4_top_songs.py "e4_top_songs.py"):** `e4_top_songs.py`
+5. **[Keyword Count](/coursework/cs/131b-python/assignments/exercises/e5_keyword_count.py "e5_keyword_count.py"):** `e5_keyword_count.py`
+6. **[Languages](/coursework/cs/131b-python/assignments/exercises/e6_languages.py "e6_languages.py"):** `e6_languages.py`
+7. **[Percentages](/coursework/cs/131b-python/assignments/exercises/e7_percentages.py "e7_percentages.py"):** `e7_percentages.py`
+8. **[Numbers](/coursework/cs/131b-python/assignments/exercises/e8_numbers.py "e8_numbers.py"):** `e8_numbers.py`
+
+## [Midterm](/coursework/cs/131b-python/assignments/midterm "View midterm")
+
+- **[Contains](/coursework/cs/131b-python/assignments/midterm/m1_contains.py "m1_contains.py"):** `m1_contains.py`
+- **[Rainfall Statistics](/coursework/cs/131b-python/assignments/midterm/m2_rainfall_stats.py "m2_rainfall_stats.py"):** `m2_rainfall_stats.py`
+
+## [Extra Credit](/coursework/cs/131b-python/assignments/extra_credit "View extra credit")
+
+- **[Arithmatic](/coursework/cs/131b-python/assignments/extra_credit/d1_arithmatic.py "d1_arithmatic.py"):** `d1_arithmatic.py`
+- **[Reverse](/coursework/cs/131b-python/assignments/extra_credit/d2_reverse.py "d2_reverse.py"):** `d2_reverse.py`
+- **[Student Data](/coursework/cs/131b-python/assignments/extra_credit/d7_student_data.py "d7_student_data.py"):** `d7_student_data.py`
+- **[Palindrome](/coursework/cs/131b-python/assignments/extra_credit/d8_palindrome.py "d8_palindrome.py"):** `d8_palindrome.py`
 
 ---
 
