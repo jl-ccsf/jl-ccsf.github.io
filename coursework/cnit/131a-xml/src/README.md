@@ -6,6 +6,8 @@
 
 # CNIT-131A All Files
 
+You can browse these files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/131a-xml/index.html "JL XML Portfolio").
+
 ## [Book Donations Catalog](https://jl-ccsf.github.io/coursework/cnit/131a-xml/src/book_donations_catalog.xml "View live page")
 
 - [Database](/coursework/cnit/131a-xml/src/book_donations_catalog.xml "book_donations_catalog.xml"): `book_donations_catalog.xml`
