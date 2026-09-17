@@ -6,7 +6,7 @@
 
 # CS-131B All Files
 
-- [Arithmetic](/coursework/cs/131b-python/src/arithmetic.py "arithmetic.py"):** `arithmetic.py`
+- [Arithmetic](/coursework/cs/131b-python/src/arithmetic.py "arithmetic.py"): `arithmetic.py`
 - [Blog Entry](/coursework/cs/131b-python/src/blog_entry.py "blog_entry.py"): `blog_entry.py`
 - [Bank Account - Class](/coursework/cs/131b-python/src/account_class.py "account_class.py"): `account_class.py`
 - [Bank Account - Checking Subclass](/coursework/cs/131b-python/src/account_checking.py "account_checking.py"): `account_checking.py`
@@ -26,7 +26,7 @@
 - [Payroll Report](/coursework/cs/131b-python/src/payroll_report.py "payroll_report.py"): `payroll_report.py`
 - [Percentages](/coursework/cs/131b-python/src/percentages.py "percentages.py"): `percentages.py`
 - [Rainfall Statistics](/coursework/cs/131b-python/src/rainfall_stats.py "rainfall_stats.py"): `rainfall_stats.py`
-- [Reverse](/coursework/cs/131b-python/src/reverse.py "reverse.py"):** `reverse.py`
+- [Reverse](/coursework/cs/131b-python/src/reverse.py "reverse.py"): `reverse.py`
 - [Social Network](/coursework/cs/131b-python/src/social_network.py "social_network.py"): `social_network.py`
 - [Student Data](/coursework/cs/131b-python/src/student_data.py "student_data.py"):** `student_data.py`
 - [Top Songs](/coursework/cs/131b-python/src/top_songs.py "top_songs.py"): `top_songs.py`
