@@ -6,7 +6,7 @@
 
 # CNIT-133 All Files
 
-This course is in progress. Files will update weekly. You can browse the files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cnit133.html "JL JavaScript Portfolio").
+This course is in progress. Files will update weekly. You can browse the files online by visiting my [portfolio-in-progress](https://jl-ccsf.github.io/coursework/cnit/133-javascript/index.html "JL JavaScript Portfolio").
 
 ## [Course Homepage](https://jl-ccsf.github.io/coursework/cnit/133-javascript/src/cnit133.html "View live homepage")
 
